@@ -28,9 +28,9 @@
 <br />
 
 ### Who I've Been Listening To This Week
-| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/a3a6628f8009c16640caaddda0106333.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/3b9922069cdf4e69a9bb8ad64095cf74.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/10ede3abec1bb37ad564a80bed01563d.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d62fece12a2a435b93741532e2c6d0c0.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/41654b68983645d0b9eaa9838fa83ae6.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/c6cfe110a49d5c1b783a2f4e458ab6e7.jpg>  |
+| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d4a0f9745de9b18cb7977c9f4c545804.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/10ede3abec1bb37ad564a80bed01563d.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/a3a6628f8009c16640caaddda0106333.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/41654b68983645d0b9eaa9838fa83ae6.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/3b9922069cdf4e69a9bb8ad64095cf74.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/6384a0790bb8d9d0588d1716fa3921d0.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Smog</b> | <b>Aphex Twin</b> | <b>Autechre</b> | <b>Oneohtrix Point Never</b> | <b>Tim Hecker</b> | <b>Yasuaki Shimizu</b>  |
+| <b>Ought</b> | <b>Autechre</b> | <b>Smog</b> | <b>Tim Hecker</b> | <b>Aphex Twin</b> | <b>Bibio</b>  |
 
 
 [linkedin]: https://www.linkedin.com/in/alessandro-grossano/
