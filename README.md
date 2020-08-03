@@ -27,7 +27,7 @@
 <br />
 <br />
 
-## Who I've Been Listening To This Week
+### Who I've Been Listening To This Week
 | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/a3a6628f8009c16640caaddda0106333.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/3b9922069cdf4e69a9bb8ad64095cf74.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d62fece12a2a435b93741532e2c6d0c0.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/41654b68983645d0b9eaa9838fa83ae6.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/c6cfe110a49d5c1b783a2f4e458ab6e7.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/824242edb519486e83ef34e05d12888b.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>Smog</b> | <b>Aphex Twin</b> | <b>Oneohtrix Point Never</b> | <b>Tim Hecker</b> | <b>Yasuaki Shimizu</b> | <b>1900</b>  |
