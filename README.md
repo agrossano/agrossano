@@ -28,9 +28,9 @@
 <br />
 
 ### Who I've Been Listening To This Week
-| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d4a0f9745de9b18cb7977c9f4c545804.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/10ede3abec1bb37ad564a80bed01563d.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/a3a6628f8009c16640caaddda0106333.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/41654b68983645d0b9eaa9838fa83ae6.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/3b9922069cdf4e69a9bb8ad64095cf74.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/6384a0790bb8d9d0588d1716fa3921d0.jpg>  |
+| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d4a0f9745de9b18cb7977c9f4c545804.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/10ede3abec1bb37ad564a80bed01563d.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/602de37f12084fd5cf5176d731c9df7f.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/1812498e3dc4454eb17b37726564cec9.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d62fece12a2a435b93741532e2c6d0c0.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/0acdb41cec5ebc43206a519c2aeeb0de.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Ought</b> | <b>Autechre</b> | <b>Smog</b> | <b>Tim Hecker</b> | <b>Aphex Twin</b> | <b>Bibio</b>  |
+| <b>Ought</b> | <b>Autechre</b> | <b>Duster</b> | <b>Elliott Smith</b> | <b>Oneohtrix Point Never</b> | <b>Adult Jazz</b>  |
 
 
 [linkedin]: https://www.linkedin.com/in/alessandro-grossano/
