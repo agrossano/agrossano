@@ -2,7 +2,7 @@
 
 <img src = 'https://github.com/agrossano/agrossano/blob/master/img/animat.gif' alt = '' align='right'/>
 
-## Frontend developer by day, wannabe creative coder by night.
+## Frontend developer by day <br> wannabe creative coder by night.
 - 🌱 I’m currently learning: React and Tailwind CSS :relaxed:
 - 🔥 Random facts: I'm into generative art, creative coding and sound design :+1:
 
