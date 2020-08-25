@@ -2,14 +2,13 @@
 
 <img src = 'https://github.com/agrossano/agrossano/blob/master/img/animat.gif' alt = '' align='right'/>
 
-## Frontend developer by day, wannabe creative coder by night.
+## Frontend developer by day <br> wannabe creative coder by night.
 - 🌱 I’m currently learning: React and Tailwind CSS :relaxed:
 - 🔥 Random facts: I'm into generative art, creative coding and sound design :+1:
 
 ### Connect with me:
 
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][instagram]
 <br />
 
 ### Languages and Tools:
