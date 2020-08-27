@@ -28,9 +28,9 @@
 <br />
 
 ### Who I've Been Listening To This Week
-| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/c1c8e166bf854595b63f84fc2eb2bf07.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/26fe85ce0bea72b3fa5300a6686d239c.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/0e327e8ac2ca491ba602b4b76b3bdd27.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/79bb698334f54bb792a1ca9690c2abc5.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/dd31448a2e6d469babdb4094f65a8382.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d68ca0302c39e8f31c7b53bffe3e4817.jpg>  |
+| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/4977e33455bd49e5b7bdb78e82e88f08.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/26fe85ce0bea72b3fa5300a6686d239c.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/390b2c2d54cb20b7fbefcd99c2c01bb7.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d68ca0302c39e8f31c7b53bffe3e4817.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/dc597d874f724e98cee37f574ae3e322.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/6c08a5e388dc49368b75d594c9c56aee.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Psychic TV</b> | <b>Caribou</b> | <b>Chris & Cosey</b> | <b>Deerhoof</b> | <b>Deutsches Symphonie-Orchester Berlin</b> | <b>Domenique Dumont</b>  |
+| <b>Amon Tobin</b> | <b>Caribou</b> | <b>Daniel Avery</b> | <b>Domenique Dumont</b> | <b>Max Cooper</b> | <b>Mira Calix</b>  |
 
 
 [linkedin]: https://www.linkedin.com/in/alessandro-grossano/
