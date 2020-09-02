@@ -28,9 +28,9 @@
 <br />
 
 ### Who I've Been Listening To This Week
-| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/4977e33455bd49e5b7bdb78e82e88f08.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/26fe85ce0bea72b3fa5300a6686d239c.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/390b2c2d54cb20b7fbefcd99c2c01bb7.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/d68ca0302c39e8f31c7b53bffe3e4817.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/dc597d874f724e98cee37f574ae3e322.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/6c08a5e388dc49368b75d594c9c56aee.jpg>  |
+| <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/e95e760cc3624d9fb02b5ed66e41408c.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/4977e33455bd49e5b7bdb78e82e88f08.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/93a18b454e5144c19a4cd3a5d1b09a27.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/9d64c6eefade4d27baeb7d897887a4a4.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/3ba5b0676ffd48598150bb8d0ed62399.jpg> | <img src=https://raw.githubusercontent.com/agrossano/agrossano/master/artist_images/83d085db79c34dcacd6a6776754251cf.jpg>  |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <b>Amon Tobin</b> | <b>Caribou</b> | <b>Daniel Avery</b> | <b>Domenique Dumont</b> | <b>Max Cooper</b> | <b>Mira Calix</b>  |
+| <b>Burial</b> | <b>Amon Tobin</b> | <b>Autechre</b> | <b>Boards of Canada</b> | <b>Damien Jurado</b> | <b>Slowdive</b>  |
 
 
 [linkedin]: https://www.linkedin.com/in/alessandro-grossano/
