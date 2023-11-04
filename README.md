@@ -1,10 +1,3 @@
-### Hi there, I'm Alessandro Grossano 👋
-
-<img src = 'https://github.com/agrossano/agrossano/blob/master/img/animat.gif' alt = '' align='right'/>
-
-## Frontend developer by day, wannabe creative coder by night.
-- 🌱 I’m currently learning: everything :relaxed:
-- 🔥 Random facts: I'm into generative art, creative coding and sound design :+1:
 
 ### Connect with me:
 
